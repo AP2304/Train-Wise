@@ -1,2 +1,28 @@
-# Train-Wise
-Responsive fitness website with multiple pages built using HTML, CSS, and JavaScript.
+# Train Wise 💪
+
+A responsive fitness website designed to promote physical wellness and gym services. Built using HTML, CSS, and JavaScript.
+
+![Homepage Screenshot](./screenshots/homepage.png)
+
+## 🚀 Features
+
+- Multi-page layout (Home, Services, About)
+- Fully responsive design for mobile and desktop
+- Smooth navigation and UI animations
+- Custom styling with CSS
+- Fitness-themed layout and content
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+## 📦 How to Run
+
+No installation required.
+
+✅ Just open the `index.html` file in your web browser to view the website locally.
+
+---
+
