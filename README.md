@@ -2,7 +2,7 @@
 
 A responsive fitness website designed to promote physical wellness and gym services. Built using HTML, CSS, and JavaScript.
 
-![Homepage Screenshot](./screenshots/homepage.png)
+![Homepage Screenshot]([./screenshots/homepage.png](https://github.com/AP2304/Train-Wise/blob/main/SS.png.png))
 
 ## 🚀 Features
 
